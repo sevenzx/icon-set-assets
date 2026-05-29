@@ -2,6 +2,13 @@
   "id": "emby",
   "name": "Emby图标库@seven",
   "description": "",
-  "icons": [],
+  "icons": [
+    {
+      "id": "acddb46f-9599-4a00-b249-7ff6a205995f",
+      "name": "alpha kids",
+      "path": "sets/emby/icons/alpha-kids.png",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/alpha-kids.png"
+    }
+  ],
   "updated_at": "2026-05-29T14:04:17.989884+00:00"
 }

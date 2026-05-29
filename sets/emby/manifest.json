@@ -4,6 +4,12 @@
   "description": "Author: Seven",
   "icons": [
     {
+      "id": "7c6dff01-ff8c-4434-a1f5-d44f84ffef07",
+      "name": "raise",
+      "path": "sets/emby/icons/raise.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/raise.jpeg"
+    },
+    {
       "id": "ed66d657-7827-49ed-bcd8-dcb2342666c8",
       "name": "meowfly",
       "path": "sets/emby/icons/meowfly.jpg",

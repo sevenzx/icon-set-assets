@@ -2,6 +2,13 @@
   "id": "emby-tina",
   "name": "Emby图标库",
   "description": "Author: tina",
-  "icons": [],
+  "icons": [
+    {
+      "id": "78a34cd8-8a85-4dd1-9ad7-8ef064a290ba",
+      "name": "lunaris_vault",
+      "path": "sets/emby-tina/icons/lunaris-vault.png",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby-tina/icons/lunaris-vault.png"
+    }
+  ],
   "updated_at": "2026-05-30T06:56:05.968399056+00:00"
 }

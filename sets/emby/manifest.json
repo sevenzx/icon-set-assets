@@ -16,12 +16,6 @@
       "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/feiyue-caihong.png"
     },
     {
-      "id": "e203fa5c-bb32-41ec-8626-65d0ee64bf39",
-      "name": "feiyue_caihong_01",
-      "path": "sets/emby/icons/feiyue-caihong-01.png",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/feiyue-caihong-01.png"
-    },
-    {
       "id": "4b865d1c-d5ec-4608-be76-d14569eb62e5",
       "name": "lunaris_vault",
       "path": "sets/emby/icons/lunaris-vault.jpeg",
@@ -52,5 +46,5 @@
       "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/zhezhi.jpeg"
     }
   ],
-  "updated_at": "2026-05-30T07:29:10.534899959+00:00"
+  "updated_at": "2026-05-30T07:29:19.938901531+00:00"
 }

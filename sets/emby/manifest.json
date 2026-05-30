@@ -7,37 +7,50 @@
       "id": "acddb46f-9599-4a00-b249-7ff6a205995f",
       "name": "alpha_kids",
       "path": "sets/emby/icons/alpha-kids.png",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/alpha-kids.png"
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/alpha-kids.png",
+      "md5": "de413c1160e48bf32822f2e550cf3544"
+    },
+    {
+      "id": "3dccf89d-e1a3-4536-a2f1-cb999aba3bc2",
+      "name": "feiyue",
+      "path": "sets/emby/icons/feiyue.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/feiyue.jpeg",
+      "md5": "6b303f644e41494f08e3556451407e28"
     },
     {
       "id": "c534feaf-cf56-451e-a037-88f3629db3de",
       "name": "feiyue_caihong",
       "path": "sets/emby/icons/feiyue-caihong.png",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/feiyue-caihong.png"
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/feiyue-caihong.png",
+      "md5": "ef413291fefd3ea5fef30546066e59ed"
     },
     {
       "id": "4b865d1c-d5ec-4608-be76-d14569eb62e5",
       "name": "lunaris_vault",
       "path": "sets/emby/icons/lunaris-vault.jpeg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/lunaris-vault.jpeg"
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/lunaris-vault.jpeg",
+      "md5": "9b9bffc61cbc25181fe4f1ae8304f3bc"
     },
     {
       "id": "ed66d657-7827-49ed-bcd8-dcb2342666c8",
       "name": "meowfly",
       "path": "sets/emby/icons/meowfly.jpg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/meowfly.jpg"
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/meowfly.jpg",
+      "md5": "812050a804ef699e11e3a96cf9c6544b"
     },
     {
       "id": "7c6dff01-ff8c-4434-a1f5-d44f84ffef07",
       "name": "raise",
       "path": "sets/emby/icons/raise.jpeg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/raise.jpeg"
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/raise.jpeg",
+      "md5": "7e564b32b336e4572fc740e889b98597"
     },
     {
       "id": "f5f09e72-f90d-472f-9842-fbf7285f2df5",
       "name": "zhezhi",
       "path": "sets/emby/icons/zhezhi.jpeg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/zhezhi.jpeg"
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/zhezhi.jpeg",
+      "md5": "12568839eb3d239e515467cce083dc79"
     }
   ],
   "updated_at": "2026-05-30T07:29:28.232181226+00:00"

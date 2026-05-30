@@ -4,6 +4,12 @@
   "description": "Author: tina",
   "icons": [
     {
+      "id": "26be098c-7cec-44b6-be3f-c697a49a368a",
+      "name": "lunaris_vault",
+      "path": "sets/emby-tina/icons/lunaris-vault-26be098c.png",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby-tina/icons/lunaris-vault-26be098c.png"
+    },
+    {
       "id": "78a34cd8-8a85-4dd1-9ad7-8ef064a290ba",
       "name": "lunaris_vault",
       "path": "sets/emby-tina/icons/lunaris-vault.png",

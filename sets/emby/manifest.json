@@ -4,22 +4,16 @@
   "description": "Author: Seven",
   "icons": [
     {
-      "id": "7c6dff01-ff8c-4434-a1f5-d44f84ffef07",
-      "name": "raise",
-      "path": "sets/emby/icons/raise.jpeg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/raise.jpeg"
+      "id": "acddb46f-9599-4a00-b249-7ff6a205995f",
+      "name": "alpha_kids",
+      "path": "sets/emby/icons/alpha-kids.png",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/alpha-kids.png"
     },
     {
-      "id": "ed66d657-7827-49ed-bcd8-dcb2342666c8",
-      "name": "meowfly",
-      "path": "sets/emby/icons/meowfly.jpg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/meowfly.jpg"
-    },
-    {
-      "id": "4b865d1c-d5ec-4608-be76-d14569eb62e5",
-      "name": "lunaris_vault",
-      "path": "sets/emby/icons/lunaris-vault.jpeg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/lunaris-vault.jpeg"
+      "id": "b32a01fb-49b0-46c8-8632-7bf68e73dba1",
+      "name": "alpha_kids_01",
+      "path": "sets/emby/icons/alpha-kids-01.png",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/alpha-kids-01.png"
     },
     {
       "id": "c534feaf-cf56-451e-a037-88f3629db3de",
@@ -28,11 +22,41 @@
       "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/feiyue-caihong.png"
     },
     {
-      "id": "acddb46f-9599-4a00-b249-7ff6a205995f",
-      "name": "alpha_kids",
-      "path": "sets/emby/icons/alpha-kids.png",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/alpha-kids.png"
+      "id": "e203fa5c-bb32-41ec-8626-65d0ee64bf39",
+      "name": "feiyue_caihong_01",
+      "path": "sets/emby/icons/feiyue-caihong-01.png",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/feiyue-caihong-01.png"
+    },
+    {
+      "id": "4b865d1c-d5ec-4608-be76-d14569eb62e5",
+      "name": "lunaris_vault",
+      "path": "sets/emby/icons/lunaris-vault.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/lunaris-vault.jpeg"
+    },
+    {
+      "id": "5ab36aad-de89-4a9b-8dfb-87f9dd1d068f",
+      "name": "lunaris_vault_01",
+      "path": "sets/emby/icons/lunaris-vault-01.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/lunaris-vault-01.jpeg"
+    },
+    {
+      "id": "ed66d657-7827-49ed-bcd8-dcb2342666c8",
+      "name": "meowfly",
+      "path": "sets/emby/icons/meowfly.jpg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/meowfly.jpg"
+    },
+    {
+      "id": "7c6dff01-ff8c-4434-a1f5-d44f84ffef07",
+      "name": "raise",
+      "path": "sets/emby/icons/raise.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/raise.jpeg"
+    },
+    {
+      "id": "f5f09e72-f90d-472f-9842-fbf7285f2df5",
+      "name": "zhezhi",
+      "path": "sets/emby/icons/zhezhi.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/zhezhi.jpeg"
     }
   ],
-  "updated_at": "2026-05-30T03:22:42.780509280+00:00"
+  "updated_at": "2026-05-30T07:28:48.827296047+00:00"
 }

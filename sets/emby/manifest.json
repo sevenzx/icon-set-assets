@@ -25,6 +25,13 @@
       "md5": "ef413291fefd3ea5fef30546066e59ed"
     },
     {
+      "id": "7511f9c3-54e7-49da-8dd0-cd79f111a6a9",
+      "name": "iris",
+      "path": "sets/emby/icons/iris.png",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/iris.png",
+      "md5": "304c5b30ba6ad5f4d9af33581fc2701e"
+    },
+    {
       "id": "4b865d1c-d5ec-4608-be76-d14569eb62e5",
       "name": "lunaris_vault",
       "path": "sets/emby/icons/lunaris-vault.jpeg",

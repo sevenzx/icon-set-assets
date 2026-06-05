@@ -7,63 +7,70 @@
       "id": "acddb46f-9599-4a00-b249-7ff6a205995f",
       "name": "alpha_kids",
       "path": "sets/emby/icons/alpha-kids.png",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/alpha-kids.png",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/alpha-kids.png",
       "md5": "de413c1160e48bf32822f2e550cf3544"
+    },
+    {
+      "id": "30685781-046e-4f39-8e88-5e25f2dbd2ab",
+      "name": "cloud",
+      "path": "sets/emby/icons/cloud.png",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/cloud.png",
+      "md5": "cb2c7cc55c7927b03f44a59c87baeefd"
     },
     {
       "id": "3dccf89d-e1a3-4536-a2f1-cb999aba3bc2",
       "name": "feiyue",
       "path": "sets/emby/icons/feiyue.jpeg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/feiyue.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/feiyue.jpeg",
       "md5": "6b303f644e41494f08e3556451407e28"
     },
     {
       "id": "c534feaf-cf56-451e-a037-88f3629db3de",
       "name": "feiyue_caihong",
       "path": "sets/emby/icons/feiyue-caihong.png",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/feiyue-caihong.png",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/feiyue-caihong.png",
       "md5": "ef413291fefd3ea5fef30546066e59ed"
     },
     {
       "id": "7511f9c3-54e7-49da-8dd0-cd79f111a6a9",
       "name": "iris",
       "path": "sets/emby/icons/iris.png",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/iris.png",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/iris.png",
       "md5": "304c5b30ba6ad5f4d9af33581fc2701e"
     },
     {
       "id": "e948d5cf-35a7-434f-9272-6d72917dd482",
       "name": "iris_01",
       "path": "sets/emby/icons/iris-01.jpeg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/iris-01.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/iris-01.jpeg",
       "md5": "ae724af0bdd1229a9ebf6c19ffe16882"
     },
     {
       "id": "4b865d1c-d5ec-4608-be76-d14569eb62e5",
       "name": "lunaris_vault",
       "path": "sets/emby/icons/lunaris-vault.jpeg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/lunaris-vault.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/lunaris-vault.jpeg",
       "md5": "9b9bffc61cbc25181fe4f1ae8304f3bc"
     },
     {
       "id": "ed66d657-7827-49ed-bcd8-dcb2342666c8",
       "name": "meowfly",
       "path": "sets/emby/icons/meowfly.jpg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/meowfly.jpg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/meowfly.jpg",
       "md5": "812050a804ef699e11e3a96cf9c6544b"
     },
     {
       "id": "7c6dff01-ff8c-4434-a1f5-d44f84ffef07",
       "name": "raise",
       "path": "sets/emby/icons/raise.jpeg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/raise.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/raise.jpeg",
       "md5": "7e564b32b336e4572fc740e889b98597"
     },
     {
       "id": "f5f09e72-f90d-472f-9842-fbf7285f2df5",
       "name": "zhezhi",
       "path": "sets/emby/icons/zhezhi.jpeg",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/main/sets/emby/icons/zhezhi.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/zhezhi.jpeg",
       "md5": "12568839eb3d239e515467cce083dc79"
     }
   ],

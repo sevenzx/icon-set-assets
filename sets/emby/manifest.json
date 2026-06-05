@@ -53,6 +53,13 @@
       "md5": "9b9bffc61cbc25181fe4f1ae8304f3bc"
     },
     {
+      "id": "d7a7c4c0-053a-42c4-8469-5843a5fd1037",
+      "name": "lunaris_vault_01",
+      "path": "sets/emby/icons/lunaris-vault-01.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/lunaris-vault-01.jpeg",
+      "md5": "32583add9dcded018ee4a32f6e10c910"
+    },
+    {
       "id": "ed66d657-7827-49ed-bcd8-dcb2342666c8",
       "name": "meowfly",
       "path": "sets/emby/icons/meowfly.jpg",

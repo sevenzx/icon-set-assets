@@ -5,9 +5,9 @@
   "icons": [
     {
       "id": "acddb46f-9599-4a00-b249-7ff6a205995f",
-      "name": "alpha_kids",
-      "path": "sets/emby/icons/alpha-kids.png",
-      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/alpha-kids.png",
+      "name": "alpha_kid",
+      "path": "sets/emby/icons/alpha-kid.png",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/alpha-kid.png",
       "md5": "de413c1160e48bf32822f2e550cf3544"
     },
     {
@@ -81,5 +81,5 @@
       "md5": "12568839eb3d239e515467cce083dc79"
     }
   ],
-  "updated_at": "2026-05-30T07:29:28.232181226+00:00"
+  "updated_at": "2026-06-06T14:21:26.792585+00:00"
 }

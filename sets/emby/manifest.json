@@ -81,6 +81,13 @@
       "md5": "7e564b32b336e4572fc740e889b98597"
     },
     {
+      "id": "725a2507-c7ad-4091-a31b-ea0cb6e8eb26",
+      "name": "SDN",
+      "path": "sets/emby/icons/sdn.jpg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/sdn.jpg",
+      "md5": "f7acecdef8c2b337e1f9d88d6dfbbb0a"
+    },
+    {
       "id": "f5f09e72-f90d-472f-9842-fbf7285f2df5",
       "name": "zhezhi",
       "path": "sets/emby/icons/zhezhi.jpeg",

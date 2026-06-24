@@ -107,6 +107,13 @@
       "path": "sets/emby/icons/zhezhi.jpeg",
       "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/zhezhi.jpeg",
       "md5": "12568839eb3d239e515467cce083dc79"
+    },
+    {
+      "id": "a1a5853c-c39d-4516-a741-f816972c3703",
+      "name": "zhezhi_01",
+      "path": "sets/emby/icons/zhezhi-01.jpeg",
+      "url": "https://raw.githubusercontent.com/sevenzx/icon-set-assets/refs/heads/main/sets/emby/icons/zhezhi-01.jpeg",
+      "md5": "b6d7217ffe78042e9444718eb1aa9744"
     }
   ],
   "updated_at": "2026-06-06T14:21:54.152066+00:00"
